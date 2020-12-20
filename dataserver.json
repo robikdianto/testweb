@@ -1,0 +1,18 @@
+
+[{
+	"id" = 1,
+	"country" = "Singapore",
+	"flags" = 1,
+	"ovpnfile" = "ovpnsfile",
+	"username" = "robikedian",
+	"password" = "password"
+},
+{
+  "id" = 2,
+	"country" = "USA",
+	"flags" = 1,
+	"ovpnfile" = "ovpnsfile",
+	"username" = "robikedian",
+	"password" = "password"
+	
+}]
